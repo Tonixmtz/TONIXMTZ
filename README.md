@@ -3,14 +3,13 @@
 ## 📜 Tonixmtz Porfile
 
 - Learning JavaScript
-- Working on None
+- Working on [Veal](https://discord.gg/vealpvp)
 
-## ⚡ Languages
+## ⚡ Language's
 
-[![Java](https://img.shields.io/badge/Java-ff8000?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![NodeJs](https://img.shields.io/badge/JavaScript-00ff5e?style=for-the-badge&logo=javascript&logoColor=white)](https://nodejs.org/)
 
-## 🌎 Socials
+## 🌎 Social's
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tonixmtz)
 [![Instagram](https://img.shields.io/badge/Instagram-ff00d9?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Tonixmtz/)
