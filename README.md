@@ -1,12 +1,10 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tonixmtz&count_private=true&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonixmtz&theme=tokyonight&langs_count=8)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/786619260390342708)](https://discord.com/users/354800852302692352)
+[![Discord Presence](https://lanyard.cnrad.dev/api/354800852302692352)](https://discord.com/users/354800852302692352)
 
-## 📜 Godziado Porfile
+## 📜 Tonixmtz Porfile
 
-- Learning Java, Mini Developer
+- Learning JavaScript
 - Working on None
 
 ## ⚡ Languages
