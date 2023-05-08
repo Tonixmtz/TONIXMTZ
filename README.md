@@ -16,8 +16,8 @@ Working on None
 <div align="center">
 
 [![NodeJs](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white)](https://nodejs.org/)
-</div>
 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonixmtz&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+</div>
 <div align="center">
 
 ## 🌎 Social's
