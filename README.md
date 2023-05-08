@@ -17,6 +17,7 @@ Working on None
 
 [![NodeJs](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white)](https://nodejs.org/)
 </div>
+<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonixmtz&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
 <div align="center">
 
 ## 🌎 Social's
@@ -29,9 +30,3 @@ Working on None
 
 ## 👤 My Discord's
 ## [![Discord Presence](https://lanyard.cnrad.dev/api/354800852302692352)](https://discord.com/users/354800852302692352)
-
-<h2 align="center">☕ Statistics</h2>
-
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonixmtz&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-</p>
