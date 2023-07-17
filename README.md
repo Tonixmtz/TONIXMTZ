@@ -29,5 +29,3 @@ Working on None
 
 ## 👤 My Discord's
 ## [![Discord Presence](https://lanyard.cnrad.dev/api/354800852302692352)](https://discord.com/users/354800852302692352)
-
-![](https://raw.githubusercontent.com/Tonixmtz/github-stats/master/generated/overview.svg#gh-dark-mode-only)
