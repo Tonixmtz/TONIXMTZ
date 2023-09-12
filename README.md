@@ -5,12 +5,7 @@
 </div>
 
 <div align="center">
-Learning Java
-
-</div>
-
-<div align="center">
-  
+Learning Java  
 Working on None
 </div>
 <div align="center">
