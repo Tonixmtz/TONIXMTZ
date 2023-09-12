@@ -1,10 +1,4 @@
 <div align="center">
-  
-## 📜 Tonixmtz's Porfile  <a href="https://github.com/Tonixmtz">
-
-</div>
-
-<div align="center">
 
 ## 🌎 Social's
 
