@@ -8,15 +8,9 @@
 Learning Java  
 Working on None
 </div>
-<div align="center">
-
-## ⚡ Language's
-
-[![NodeJs](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white)](https://nodejs.org/)
-</div>
 
 <div align="center">
-  
+
 ## 🌎 Social's
 
 [![Discord](https://img.shields.io/badge/Tonixmtz-111111.svg?&style=for-the-badge&logo=discord&logoColor=white")](https://discordapp.com/users/354800852302692352/)
