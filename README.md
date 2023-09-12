@@ -3,7 +3,7 @@
 ## 📜 Tonixmtz's Porfile  <a href="https://github.com/Tonixmtz">
 </div>
 <div align="center">
-Learning JavaScript
+Learning Java
 </div>
 <div align="center">
 Working on None
