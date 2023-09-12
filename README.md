@@ -6,13 +6,6 @@
 
 <div align="center">
 
-Learning Java
-Working on None
-
-</div>
-
-<div align="center">
-
 ## 🌎 Social's
 
 [![Discord](https://img.shields.io/badge/Tonixmtz-111111.svg?&style=for-the-badge&logo=discord&logoColor=white")](https://discordapp.com/users/354800852302692352/)
