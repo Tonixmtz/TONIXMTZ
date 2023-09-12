@@ -10,3 +10,4 @@
 
 ## 👤 My Discord's
 ## [![Discord Presence](https://lanyard.cnrad.dev/api/354800852302692352)](https://discord.com/users/354800852302692352)
+</div>
